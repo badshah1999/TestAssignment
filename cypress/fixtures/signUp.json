@@ -1,0 +1,10 @@
+{
+  "firstName": "test",
+  "lastName": "user",
+  "email": "testuser4504@gmail.com",
+  "password":"testusee@123",
+  "confirmMessage":"Thank you for registering with Main Website Store.",
+  "loginVerify":"Home Page",
+  "loginCase":"LOGIN",
+  "signUpCase":"SIGNUP"
+}
